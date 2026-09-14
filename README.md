@@ -1,37 +1,42 @@
-# 👋 Hi, I'm Kamran Siddiquee
+# 👋 Hi, I'm Mohd Kamran Siddiquee
 
-### Web Developer • IT Support • CCTV & Security Solutions
+### IT Support • Web Development • CCTV & Security Solutions
 
-I build practical digital solutions — from responsive websites and business tools to IT support and CCTV/security systems.
+I'm focused on building practical digital solutions and developing hands-on experience in IT support, web development, and CCTV/security technology.
 
-📍 Mumbai, India  
-📧 **Siddiqueekamran143a@gmail.com**
+📍 Mumbai, India
 
-### What I work with
+## 👨‍💻 What I Work With
 
-- 🌐 HTML, CSS, JavaScript, responsive web development
-- 🖥️ IT support, troubleshooting and basic system administration
-- 📹 CCTV installation, configuration and troubleshooting
-- 🎨 UI-focused website design
-- 🔧 Business-focused technical problem solving
+- 🌐 HTML, CSS, JavaScript & responsive web development
+- 🖥️ IT support, troubleshooting & basic system administration
+- 📹 CCTV configuration, installation & troubleshooting
+- 🎨 Responsive and user-focused website design
+- 🔧 Practical technical problem solving
 
-### Featured projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| [Portfolio](https://github.com/skamran0786/portfolio) | Personal portfolio website |
-| [SecureViewSolutions](https://github.com/skamran0786/secureviewsolutions) | Company website for security/CCTV solutions |
-| [Gym](https://github.com/skamran0786/gym) | Gym website project |
-| [BUSHRA-SAWANT](https://github.com/skamran0786/BUSHRA-SAWANT) | Website project |
-| [BS-](https://github.com/skamran0786/BS-) | Website project |
+| [Portfolio](https://github.com/skamran0786/portfolio) | Personal responsive portfolio website |
+| [SecureViewSolutions](https://github.com/skamran0786/secureviewsolutions) | CCTV & security solutions business website |
+| [Gym](https://github.com/skamran0786/gym) | Responsive gym website project |
 
-### Current focus
+## 🎯 Current Focus
 
-I’m building a stronger portfolio around **web development, IT support and CCTV/security technology**, while improving my real-world project experience.
+I'm currently strengthening my practical skills in:
 
-### Connect
+- IT support and troubleshooting
+- Web development
+- Networking fundamentals
+- CCTV and security technology
+- Building real-world projects
 
-- 💼 [GitHub](https://github.com/skamran0786)
-- 🌐 [Portfolio](https://github.com/skamran0786/portfolio)
+## 📫 Connect
 
-> Open to entry-level IT support, web development and technical support opportunities in Mumbai.
+- 💻 [GitHub](https://github.com/skamran0786)
+- 🌐 [Portfolio](https://magnificent-kelpie-b3bbe1.netlify.app)
+
+---
+
+Open to entry-level IT support, technical support and web development opportunities in Mumbai.
