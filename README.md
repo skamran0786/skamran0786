@@ -18,9 +18,11 @@ I'm focused on building practical digital solutions and developing hands-on expe
 
 | Project | Description |
 |---|---|
-| [Portfolio](https://github.com/skamran0786/portfolio) | Personal responsive portfolio website |
-| [SecureViewSolutions](https://github.com/skamran0786/secureviewsolutions) | CCTV & security solutions business website |
-| [Gym](https://github.com/skamran0786/gym) | Responsive gym website project |
+| [SecureViewSolutions](https://github.com/skamran0786/secureviewsolutions) | Security & CCTV solutions business website and my primary web project |
+| [Gym](https://github.com/skamran0786/gym) | Responsive gym and fitness website project |
+| [BUSHRA-SAWANT](https://github.com/skamran0786/BUSHRA-SAWANT) | Responsive portfolio website built as a project for another person |
+| [BS-](https://github.com/skamran0786/BS-) | Responsive portfolio website built as a project for another person |
+| [Brother's Portfolio](https://github.com/skamran0786/portfolio) | Responsive portfolio website I built for my brother |
 
 ## 🎯 Current Focus
 
@@ -35,7 +37,7 @@ I'm currently strengthening my practical skills in:
 ## 📫 Connect
 
 - 💻 [GitHub](https://github.com/skamran0786)
-- 🌐 [Portfolio](https://magnificent-kelpie-b3bbe1.netlify.app)
+- 🌐 [Portfolio Project](https://github.com/skamran0786/portfolio)
 
 ---
 
