@@ -46,7 +46,7 @@ A responsive website concept for a fitness business.
 ## Links
 
 - **GitHub:** [@skamran0786](https://github.com/skamran0786)
-- **Portfolio:** [mohdkamransiddiquee.netlify.app](https://mohdkamransiddiquee.netlify.app/)
+- **Portfolio:** [mohdkamransiddique.vercel.app](https://mohdkamransiddique.vercel.app/)
 - **SecureView Solutions:** [secureviewsolutions.in](https://secureviewsolutions.in/)
 
 ---
